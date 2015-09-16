@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:55:27.554258
+#+DATE: 2015-08-29 17:55:28.422775
 #+PROPERTY: ID KR5i0071
-#+TITLE:張三丰先生全集 Zhang Sanfeng Xiansheng Quanji
+#+TITLE:張三丰先生全集
+#+PROPERTY: pinyin Zhang Sanfeng Xiansheng Quanji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0071_03p001a>¶
